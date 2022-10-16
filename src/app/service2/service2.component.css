@@ -1,0 +1,28 @@
+.kore{
+
+}
+.container{
+    width: 490px;
+    height: 620px;
+    border: 5px solid;
+    border-color:grey ;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.work{
+    padding-left: 230px;
+    overflow: hidden;
+}
+.fo{
+    font-size: 70px;
+    color:rgb(251, 127, 82);
+    margin-left:20px;
+    margin-top: -50px;
+}
+.ty{
+    font-size: large;
+    margin-left: 20px;
+    width: 370px;
+    color: grey;
+}
